@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeyiwanski.github.io/gamedev" resolutions="1x" timestamp="1614791925239">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sergeyiwanski.github.io/gamedev" resolutions="1x" timestamp="1614792028189">
   <folder name="css">
     <file name="site_global.css" crc="338150488"/>
     <file name="master_header_footer_en.css" crc="3969717868" ref="education:masterfighters:similarmyst:work:metal---magic:magicianwars:partners:skills:starkombat:concavex:development:dangerousrace:index:2dplatformer:4side:unity:curvature:thelastprophecy:interesting:language-box:hammerfight:luxuma3d:about:castlesbattle:unreal"/>
