@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/index.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/unity.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/interesting.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -93,12 +93,48 @@
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/mobile_menu_button.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/hoglet.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/outshine.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/nicole.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/eric-crop-u155739.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/icescreen.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/dima.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/cerynitii.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/kapia.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mushdevstudio-crop-u156073.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/eric-crop-u1557392.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mushdevstudio.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/eric.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/unreal.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -128,7 +164,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/partners.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,7 +194,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/development.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -188,7 +224,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/2dplatformer.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -218,7 +254,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/4side.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -248,7 +284,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/curvature.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -278,7 +314,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/language-box.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +344,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/luxuma3d.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -338,7 +374,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/castlesbattle.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -368,7 +404,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/masterfighters.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -398,7 +434,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/metal---magic.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -428,7 +464,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/starkombat.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -458,7 +494,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/thelastprophecy.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -488,7 +524,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/similarmyst.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -518,7 +554,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/magicianwars.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -548,7 +584,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/concavex.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -578,7 +614,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/dangerousrace.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -608,7 +644,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/hammerfight.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -638,7 +674,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/about.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -668,7 +704,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/education.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -698,7 +734,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/work.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -728,7 +764,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/skills.html</loc>
-    <lastmod>2019-10-26</lastmod>
+    <lastmod>2021-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
