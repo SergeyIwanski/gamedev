@@ -560,7 +560,7 @@ Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu176603', ['#bp_infinity', '#bp_935', '#bp_800', '#bp_600', '#bp_400'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:100,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:false,elastic:'fullScreen',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:true,autoActivate_runtime:false,isResponsive:true}); $(elem).data('widget', widget); return widget; });/* #slideshowu176603 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_935', '#bp_800', '#bp_600', '#bp_400'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#accordionu8847', ['#bp_935', '#bp_800', '#bp_600', '#bp_400'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:0}); });/* #accordionu8847 */
+Muse.Utils.initWidget('#accordionu8847', ['#bp_935', '#bp_800', '#bp_600', '#bp_400'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu8847 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
