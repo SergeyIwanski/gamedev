@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/index.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,13 +32,13 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/assets.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2019-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/unity.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/interesting.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -93,36 +93,6 @@
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/mobile_menu_button.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/hoglet.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/outshine.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/nicole.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/icescreen.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/dima.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/cerynitii.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/kapia.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mushdevstudio.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/chillplay.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/juris.jpg</image:loc>
     </image:image>
     <image:image>
@@ -135,15 +105,45 @@
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/malzibe.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/hoglet.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/icescreen.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/dima.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/charith.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/nicole.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/kapia.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/mushdevstudio-crop-u204275.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mushdevstudio-crop-u2042752.png</image:loc>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/badtoxic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/hyprblast.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/janmad.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mushdevstudio.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/unreal.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -172,8 +172,38 @@
     </image:image>
   </url>
   <url>
+    <loc>https://sergeyiwanski.github.io/gamedev/friends.html</loc>
+    <lastmod>2022-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/vk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/linkedin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mobile_menu_button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sergeyiwanski.github.io/gamedev/images/1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://sergeyiwanski.github.io/gamedev/development.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -203,7 +233,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/2dplatformer.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -233,7 +263,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/4side.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,7 +293,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/curvature.html</loc>
-    <lastmod>2021-07-06</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -293,7 +323,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/language-box.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -323,7 +353,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/luxuma3d.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -353,7 +383,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/castlesbattle.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -383,7 +413,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/masterfighters.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -413,7 +443,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/metal---magic.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -443,7 +473,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/starkombat.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -473,7 +503,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/thelastprophecy.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -503,7 +533,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/similarmyst.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -533,7 +563,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/magicianwars.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -563,7 +593,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/concavex.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -593,7 +623,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/dangerousrace.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -623,7 +653,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/hammerfight.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -653,7 +683,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/about.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -683,7 +713,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/education.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -713,7 +743,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/work.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -743,7 +773,7 @@
   </url>
   <url>
     <loc>https://sergeyiwanski.github.io/gamedev/skills.html</loc>
-    <lastmod>2021-06-16</lastmod>
+    <lastmod>2022-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -769,36 +799,6 @@
     </image:image>
     <image:image>
       <image:loc>https://sergeyiwanski.github.io/gamedev/images/7.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://sergeyiwanski.github.io/gamedev/friends.html</loc>
-    <lastmod>2021-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/vk.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/linkedin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/mobile_menu_button.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://sergeyiwanski.github.io/gamedev/images/1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
